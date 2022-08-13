@@ -1,0 +1,39 @@
+* {
+  font-family:monospace;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+a {
+  font-size: 23px;
+  display: block;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+li {
+  font-size: 18px;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+.title {
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
